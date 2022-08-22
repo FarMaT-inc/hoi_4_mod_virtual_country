@@ -1,0 +1,10 @@
+CAL = {
+	male = {
+		names = { Liam Noah Oliver Elijah James William Benjamin Lucas Henry Theodor }
+	}
+	female = {
+		name = { Olivia Emma Charlotte Amelia } 
+	}
+	surnames = { Smith Johnson Williams Jones Brown Davis Miller Wilson Moore Taylor Anderson Thomas Jackson White Harris Martin }
+	callsigns = { Hawk Eagle Heavy Runner Striker }
+}

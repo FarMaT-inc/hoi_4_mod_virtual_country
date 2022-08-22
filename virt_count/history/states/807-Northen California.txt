@@ -1,0 +1,38 @@
+state={
+
+	id=807
+	name="STATE_807"
+	manpower = 567724
+	
+	state_category = metropolis
+	
+	resources={
+		oil=180 # was: 350
+		aluminium=8 # was: 14
+	}
+
+	history={
+		owner = CAL
+		buildings = {
+			infrastructure = 6
+			arms_factory = 4
+			industrial_complex = 4
+			dockyard = 2
+			
+			610 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = CAL
+
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 3
+			}
+		}
+	}
+
+	provinces={
+		610 766 768 781 3588 3644 4331 6482 6665 6772 10159 9730 9697 11698 
+	}
+}
